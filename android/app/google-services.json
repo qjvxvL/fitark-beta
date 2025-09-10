@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791301072525",
+    "project_id": "fitark",
+    "storage_bucket": "fitark.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791301072525:android:8273ec551dd0c05d6164c4",
+        "android_client_info": {
+          "package_name": "com.example.fitark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHx_VMrfY91qqNXq_tc6msUdtwdcdeqGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
